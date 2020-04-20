@@ -1,4 +1,4 @@
-# **bamazon App**
+# **Bamazon App**
 
 Link to video demostration https://drive.google.com/file/d/1s6JUPFuAEK1KATjyL-p6GGtsF49_8p_S/view
 
